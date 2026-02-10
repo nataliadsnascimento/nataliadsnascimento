@@ -1,43 +1,45 @@
-<h1 align="center">Hi 👋! My name is Natália and I'm a Software Engineering student</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <h1><font color="#cb19a5">Natália Nascimento</font></h1>
+
+  <p><strong>Software Engineering student</strong></p>
+
+  <a href="https://nataliadsnascimento.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-fe428e?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nataliadsnascimento/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-fe428e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nataliasanntos161@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-161616?style=for-the-badge&logo=gmail&logoColor=fe428e" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+### Sobre mim
+
+- **Certificação:** Cisco Certified Support Technician (CCST) Cybersecurity.
+- **Interesses:** Desenvolvimento Backend, Cibersegurança.
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,html,css,js,git" alt="Minhas Tecnologias" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nataliadsnascimento/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:nataliasanntos161@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliadsnascimento&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliadsnascimento&theme=radical" />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nataliadsnascimento&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliadsnascimento&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliadsnascimento/nataliadsnascimento/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nataliadsnascimento/nataliadsnascimento/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nataliadsnascimento/nataliadsnascimento/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliadsnascimento/nataliadsnascimento/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nataliadsnascimento/nataliadsnascimento/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nataliadsnascimento/nataliadsnascimento/output/pacman-contribution-graph.svg">
-</picture>
-
-###
