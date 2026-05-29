@@ -22,9 +22,9 @@
 - **Interesses:** Desenvolvimento Backend, Cibersegurança.
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,html,css,js,git" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,html,css,js,git,postgres,figma" alt="Minhas Tecnologias" />
 </div>
 
 ###
